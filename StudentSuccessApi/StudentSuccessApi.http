@@ -1,6 +1,0 @@
-@StudentSuccessApi_HostAddress = http://localhost:5286
-
-GET {{StudentSuccessApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
